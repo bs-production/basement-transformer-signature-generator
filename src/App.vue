@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/169/franks-basement-systems-log-with-services_-_Copy.png" alt="" style="width:275px">
+            <img src="	https://cdn.treehouseinternetgroup.com/cms_images/1395/the-basement-transformer-logo-24.png" alt="" style="width:275px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
