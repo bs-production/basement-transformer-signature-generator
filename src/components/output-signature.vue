@@ -153,9 +153,14 @@ export default {
   }
 }
 </script>
-
+<style>
+.sub-text p[data-v-7ba5bd90] {
+    color: #F01014!important;
+}
+</style>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
 h1, h2 {
   font-weight: normal;
 }
