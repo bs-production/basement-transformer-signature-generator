@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Franks Basement Systems
+                    &copy;2024 The Basement Transformer
                 </p>
             </div>
         </div>
