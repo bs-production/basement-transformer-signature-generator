@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #20409a;
+  border-top: 1px dashed  #F01014;
 }
 .gif-box ul {
     text-align:left;
@@ -209,18 +209,18 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #20409a;
+  background-color:  #F01014;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #0033c0;
+  background-color:  #F01014;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #0033c0;
+  border-color:  #F01014;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
@@ -228,7 +228,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #20409a;
+  color:  #F01014;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -238,7 +238,7 @@ input:disabled {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #20409a;
+  border-color: #F01014;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
