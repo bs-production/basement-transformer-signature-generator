@@ -86,9 +86,14 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/facebook.png" /></a>
                     
-                    <a href="https://www.google.com/maps/place/The+Basement+Transformer/@41.5870984,-74.3160776,9z/data=!3m1!4b1!4m6!3m5!1s0x89dcd4a4f559fb31:0xb73b0132e21e52ee!8m2!3d41.5870984!4d-74.3160776!16s%2Fg%2F11g6hr11b3?entry=ttu" style=
-                    "border-width:0px; border:0px; text-decoration: none;"><svg id="icon-google" role="presentation" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M17.6 8.5h-7.5v3h4.4c-.4 2.1-2.3 3.5-4.4 3.4c-2.6-.1-4.6-2.1-4.7-4.7c-.1-2.7 2-5 4.7-5.1c1.1 0 2.2.4 3.1 1.2l2.3-2.2C14.1 2.7 12.1 2 10.2 2c-4.4 0-8 3.6-8 8s3.6 8 8 8c4.6 0 7.7-3.2 7.7-7.8c-.1-.6-.1-1.1-.3-1.7z" clip-rule="evenodd"></path></svg></a>
-                    
+                    <a href="https://goo.gl/maps/LkeRo7yxXm82" target="_blank"
+                    style=
+                    "border-width:0px; border:0px; text-decoration: none;"><img width="25"
+                    height="25" style=
+                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
+                    src=
+                    "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" />
+                    </a>
                     <!-- <a href="https://www.youtube.com/channel/UCop6hiVtGvTDem0UqPppINw"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
